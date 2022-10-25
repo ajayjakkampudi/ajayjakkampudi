@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision And Natural Language Processing**
 
-- 📫 How to reach me **ajayjakkampudi1712**
+- 📫 How to reach me **ajayjakkampudi1712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
